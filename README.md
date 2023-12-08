@@ -1,13 +1,52 @@
-- 👋 Hi, I’m @CodeBoy-source
-- 👀 I’m interested in ComputerScience and problem solving overral.
-- 🌱 I’m currently learning ComputerScience at the top 3 University in Spain, The University of Granada.
-- 💞️ I’m looking to collaborate with everyone on everything I can, since I am very open-minded and love to learn random stuff!
-- 📫 You can reach me thru my email at briansena23@hotmail.com
+<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
-CodeBoy-source/CodeBoy-source is a ✨ special ✨ repository because for now It doesn't have much, but it's plan for the future are huge.
-For now I'm only able to upload those kind of exercise that I didn't have the luck of losing and have the right to upload (University Policy or something).
-But perhaps on the future I could use this for more advanced practises or maybe for some fun projects I will end up doing anyway.
-Notice: Not all code here I am proud, I have learned and developed a lot more skills since my first day. I learn something new everyday. 
-        But as a reminder of my HardWork and progress I will blindly upload everything asking for forgiveness and no jugdgement on most mistakes if you are so kind.
-That's all folks, have a nice day!
+```shell
+ { 
+ “name” : “Brian Sena Simons”,
+ “role” : “Machine Learning Specialist in Progress”,
+ }
+```
+As a Computer Science student specializing in Intelligent and Advanced Systems, I am committed to gaining a thorough understanding of the workings of Intelligent Machines and their potential applications in solving real-world problems. 
+My ultimate objective is to leverage my skills and knowledge to develop innovative solutions that enhance the quality of life for people everywhere. 
+Along with my primary focus on Intelligent Machines, I have a passion for coding, which I pursue through additional projects that allow me to expand my horizons and keep up with the latest developments in the field.
 
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
+</p>
+
+<h4>Tools & Technologies</h4>
+<p>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
+</p>
+
+
+### 🌱 I'm currently learning... / Last Projects
+
+- Machine Learning, Inteligent and Advanced Systems
+- Looker and LookerML
+- ElasticSearch capabilities: Integrations and Deep Learning.
+- FastAPI and FastAI
+- GCP: BigQuery, VertexAI and Cloud Run CD/CI.
+
+---
+
+### Github Stats:
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBoy-source&theme=radical&card_width=450em)](https://github.com/CodeBoy-source/CodeBoy-source/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeBoy-source&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
+
+
+#### 🎧 I love music! | Spotify Playing All the Time.
