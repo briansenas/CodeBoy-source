@@ -43,8 +43,8 @@ Along with my primary focus on Intelligent Machines, I have a passion for coding
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBoy-source&theme=radical&card_width=450em)](https://github.com/CodeBoy-source/CodeBoy-source/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeBoy-source&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansenas&theme=radical&card_width=450em)](https://github.com/CodeBoy-source/CodeBoy-source/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=briansenas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
 
